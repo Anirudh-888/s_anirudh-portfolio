@@ -138,7 +138,7 @@ export function Contact() {
             <div className="font-mono text-xs text-[var(--mute)] mb-1">LinkedIn</div>
             <a
               href={PROFILE.linkedin}
-              target="_blank"
+              target="https://linkedin.com/in/sanipeida.tech"
               rel="noopener noreferrer"
               className="font-bold text-sm text-[var(--ink)] hover:underline flex items-center justify-between"
             >
